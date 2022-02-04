@@ -74,7 +74,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Hi, I'm Sean'
+    title: 'Sean Conner'
   }
 }
 </script>
