@@ -74,7 +74,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Sean Conner'
+    title: 'Howdy World'
   }
 }
 </script>
