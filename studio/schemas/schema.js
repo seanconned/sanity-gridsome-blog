@@ -31,7 +31,6 @@ export default createSchema({
     post,
     category,
     author,
-    musings,
     mainImage,
     authorReference,
     bodyPortableText,
